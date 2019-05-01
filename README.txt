@@ -1,21 +1,21 @@
 1.Otwieramy program Netbeans.
 2.Otwieramy projekt StudenciGui.
-3.Dodajemy do Library z folderu jar:
+3.Dodajemy do Library pliki:
 	- r2xml.jar
 	- derbyclient.jar
-4.Nastêpnie ³¹czymy siê z baz¹.
+4.NastÄ™pnie Å‚Ä…czymy siÄ™ z bazÄ….
 5.Klikamy na pasku menu Window -> Services
 6.Otwieramy Databases
-7.Klikamy na JavaDB i ³¹czymy siê z baz¹
-8.Nastêpnie gdy ju¿ siê po³¹czymy tworzymy baze danych
+7.Klikamy na JavaDB i Å‚Ä…czymy siÄ™ z bazÄ…
+8.NastÄ™pnie gdy juÅ¼ siÄ™ poÅ‚Ä…czymy tworzymy baze danych
 9. Klikamy Create Databases
-10. Uzupe³niamy:
+10. UzupeÅ‚niamy:
 
 Database Name: APP
 username: app
 password: test
 
-11.Nastêpnie ³¹czymy siê z t¹ baz¹ i odpalamy aplikacje GUI.
-12. W aplikacji mo¿e dodawaæ studenta do bazy, usuwaæ studenta podaj¹c jego ID
-oraz modyfikowaæ nazwisko konkretnego studenta o okreœlonym ID.
+11.NastÄ™pnie Å‚Ä…czymy siÄ™ z tÄ… bazÄ… i odpalamy aplikacje GUI.
+12. W aplikacji moÅ¼e dodawaÄ‡ studenta do bazy, usuwaÄ‡ studenta podajÄ…c jego ID
+oraz modyfikowaÄ‡ nazwisko konkretnego studenta o okreÅ›lonym ID.
 
